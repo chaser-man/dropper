@@ -33,7 +33,7 @@ window.addEventListener('resize', () => {
 const player = {
   x: canvas.width / 2,
   y: canvas.height - 100 * sizeMultiplier,
-  width: 40 * sizeMultiplier,
+  width: 50 * sizeMultiplier,
   height: 60 * sizeMultiplier,
   speed: 7,
   dx: 0,
