@@ -20,7 +20,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 // Define max difficulty score
-const maxDifficultyScore = 40;
+const maxDifficultyScore = 45;
 
 // Handle window resize
 window.addEventListener('resize', () => {
